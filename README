@@ -1,0 +1,13 @@
+To use:
+
+Put at least one .xml in input.
+
+Edit Epic.txt and GX.txt to use a much higher number than other users of the system (need to coordinate)
+
+Set numEpic and numEach to 0.
+Set numGX to the number of copies you would like to make
+run makeNewGTO.py.
+
+Your new xmls will be created in output, under a folder with a timestamp of the time you created them.
+
+To use makeCancellation.py, replace the folder name with the folder you would like to use.
